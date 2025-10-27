@@ -1,45 +1,589 @@
-[download.htm](https://github.com/user-attachments/files/23144821/download.htm)
-<!doctype html><html lang=en prefix="og: http://ogp.me/ns#"><meta name=viewport content="width=device-width"><title>Ezgif - free online animated GIF editor</title><meta name="description" content="Easy to use online animated GIF maker and image editor. Create, convert, crop, resize, reverse, optimize animated GIF, WebP, APNG files, images and videos."><meta property="og:type" content="website"><meta property="og:description" content="Easy to use online animated GIF maker and image editor. Create, convert, crop, resize, reverse, optimize animated GIF, WebP, APNG files, images and videos."><meta property="og:title" content="Animated gif tools"><meta property="og:image" content="https://ezgif.com/images/ezgif-homepage.png"><meta property="og:url" content="https://ezgif.com"><meta property="og:type" content="article"><link rel="stylesheet" href="/css/ev.css"><link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png"><link rel="icon" href="/favicon.ico"><link rel="canonical" href="https://ezgif.com"><script>function docReady(fn) {
-if (document.readyState === "complete" || document.readyState === "interactive") {
-setTimeout(fn, 1);
-} else {
-document.addEventListener("DOMContentLoaded", fn);
-}
-}
-</script>
-<script>cmpid = "391";
-var s = document.createElement('script');
-s.setAttribute('src', 'https://cmp.setupcmp.com/cmp/cmp/cmp-stub.js');
-s.setAttribute('data-prop-id', cmpid);
-document.head.appendChild(s);
-var s2 = document.createElement('script');
-s2.setAttribute('src', 'https://cmp.setupcmp.com/cmp/cmp/cmp-v1.js');
-s2.setAttribute('data-prop-stpd-cmp-id', cmpid);
-document.head.appendChild(s2);
-</script>
-<script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async></script><script>window.googletag = window.googletag || { cmd: [] };
-googletag.cmd.push(function () {
-if (window.innerWidth >= 1400) {
- googletag.defineSlot('/147246189,21770999482/ezgif.com_728x90_desktop_top', [[970,90],[728,90],[468,60]], 'hdr').addService(googletag.pubads());
-} else if (window.innerWidth > 800) {
- googletag.defineSlot('/147246189,21770999482/ezgif.com_728x90_desktop_top_narrow', [[728,90],[468,60]], 'hdr').addService(googletag.pubads());
-}
-if (window.innerWidth > 800) {
-googletag.defineSlot('/147246189,21770999482/ezgif.com_300x600_1', [[300, 250], [300, 600], [300, 300], [160, 600]], 'ezgif_com_300x600_1').addService(googletag.pubads());
-googletag.defineSlot('/147246189,21770999482/ezgif.com_300x600_2', [[300, 250], [300, 600], [300, 300], [160, 600]], 'ezgif_com_300x600_2').addService(googletag.pubads());
-}
-googletag.pubads().setTargeting('category', 'computing_graphics').setTargeting('audience_interest', 'computing');
-googletag.pubads().enableSingleRequest();
-googletag.pubads().disableInitialLoad();
-googletag.enableServices();
-});
-</script><script src="https://stpd.cloud/saas/3148" async></script><script src="https://btloader.com/tag?o=5646025299591168&upapi=true" async></script>
-</head><body><div class="ww" id="wrapper"><div id="header"><a id="logo" href="/" title="Online animated GIF tools">ezGif.com <span>Animated GIFs Made Easy</span></a><div id="hdr" class="ads leaderboard"><script>googletag.cmd.push(function () { googletag.display('hdr'); });</script></div><nav><ul id="menu"><li><a class="gifmaker" href="/maker" title="Make animated GIF from still frames or edit frame order and duration of existing GIF">GIF Maker</a></li><li><a class="video" href="/video-to-gif" title="Video to GIF converter">Video to GIF</a></li><li><a class="resize" href="/resize" title="Resize animated image">Resize</a></li><li><a class="rotate" href="/rotate" title="Rotate / reverse animated GIFs and images">Rotate</a></li><li><a class="crop" href="/crop" title="Crop selection of image">Crop</a></li><li><a class="optimize" href="/optimize" title="Reduce animation size">Optimize</a></li><li><a class="effects" href="/effects" title="Add effects to images and animations">Effects</a></li><li><a class="split" href="/split" title="Split GIF image to frames">Split</a></li><li><a class="add-text" href="/add-text" title="Write text over GIF image">Add text</a></li><li><a class="webp" href="/webp-maker" title="Animated WebP maker and tools">WebP</a></li><li><a class="apng" href="/apng-maker" title="Animated PNG (APNG) maker and tools">APNG</a></li><li><a class="avif" href="/avif-maker" title="AVIF tools">AVIF</a></li><li><a class="jxl" href="/jxl-maker" title="JPEG XL tools">JXL</a></li></ul></nav><div class="c"></div></div>
-<div id="content"><aside id="sidebar"><div id='ezgif_com_300x600_1' class="sky ads sidebar_ad"><script>if (window.innerWidth > 800) {
-googletag.cmd.push(function () { googletag.display('ezgif_com_300x600_1'); });
-}
-</script></div><br><div id='ezgif_com_300x600_2' class="sky ads sidebar_ad"><script>if (window.innerWidth > 800) {
-googletag.cmd.push(function () { googletag.display('ezgif_com_300x600_2'); });
-}
-</script></div></aside><div id="main"><h1 style="text-align:center">Online GIF maker and image editor</h1><ul id="giftools-menu"><li class="video-to-gif"><a href="/video-to-gif" title="Video to GIF online converter">Video to GIF</a></li><li class="resize"><a href="/resize" title="Resize GIFs and other animated images">Resizer</a></li><li class="optim"><a href="/optimize" title="Optimize animated GIFs for file size and performance">Optimizer</a></li><li class="maker"><a href="/maker" title="Make animated GIF from multiple images">GIF Maker</a></li></ul><p id="site-description">Ezgif.com is a simple, free online GIF maker and toolset for basic animated image editing.<br>Here you can create, edit and convert GIF, APNG, WebP, MNG and AVIF animations.</p><div id="share" class="index"></div><div id="news"><h2>ezgif.com news and updates</h2><ul class="tweet_list"><li><span class="date">Oct 14, 2025</span><p>GIF Maker (and all the other maker tools) now includes an option to skip every n-th frame. Improved support for converting GIF, APNG, and WebP files with transparent areas to AVIF - transparency is now preserved. <a href="/reverse">Reverse</a> tool now also supports AVIF.</p></li><li><span class="date">Sep 12, 2025</span><p>A new <a href="/add-image">add image tool</a>. It lets you place an image on top of a GIF (and APNG/WebP) animation and fine-tune its position frame by frame.</p></li><li><span class="date">Sep 9, 2025</span><p>Fixed issues with some APNG files failing to convert to WebP, AVIF and WebM formats.</p></li><li><span class="date">Feb 21, 2025</span><p>Updated the dark mode color scheme.<br>Added more customization options for the <a href="/barcode-generator">Barcode Generator</a> - size, filenames, and output format.</p></li><li><span class="date">Feb 15, 2025</span><p>The <a href="/sprite-cutter">Sprite Sheet Cutter</a> now allows you to customize output filenames, with additional output formats available.</p></li><li><span class="date">Feb 7, 2025</span><p>Added an <a href="/jpg-to-pdf">image to PDF converter</a>. It accepts all the same formats as the GIF maker, allowing you to create a PDF document from JPGs, animated files, image archives, and a mix of different formats and sizes.</p></li><li><span class="date">Feb 1, 2025</span><p>Today, I added a few more converters for various file format combinations:<br><a href="/heic-to-webp">HEIC to WebP</a>, <a href="/heic-to-gif">HEIC to GIF</a>, <a href="/tiff-to-webp">TIFF to WebP</a>, <a href="/apng-to-jxl">APNG to JXL</a>, <a href="/jxl-to-avif">JXL to AVIF</a>, <a href="/jxl-to-apng">JXL to APNG</a>.</p></li><li><span class="date">Jan 19, 2025</span><p>We have added a new <a href="/freeze-video">freeze video tool</a> that allows you to apply a freeze frame effect. This tool lets you pause the video and display a still frame for a specified duration.</p></li><li><span class="date">Jan 17, 2025</span><p><a href="/reverse-video">Video reverser</a> tool now supports creating a boomerang or ping-pong effect, where the video plays to the end and then reverses back to the start.</p></li><li><span class="date">Dec 21, 2024</span><p>Fixed an issue where APNG files produced by EZGIF were incompatible with some other software and websites.</p></li><li><span class="date">Dec 16, 2024</span><p>The <a href="/combine">GIF Combine</a> tool can now join files not only side by side but also one on top of the other. Added <a href="/mp4-to-mp3">MP4 to MP3 converter</a>.</p></li><li><span class="date">Dec 11, 2024</span><p>Added play/pause button (also works with spacebar) to the <a href="/crop-video">crop video</a> tool.<br>New converters: <a href="/webp-to-svg">WebP to SVG</a> and <a href="/svg-to-webp">SVG to WebP</a><br>Added quality settings to JPG to WebP and PNG to WebP converters.</p></li></ul><p class="paginator"><a href="/" class="active">1</a> <a href="/archive/2">2</a> <a href="/archive/3">3</a> <a href="/archive/4">4</a> <a href="/archive/5">5</a> <a href="/archive/6">6</a> </p>
-</div></div><div class="c"></div></div></div><footer><div class="ww fm"><div><ul><li><strong>Ezgif resources</strong></li><li><a href="/help">Help / FAQ</a></li><li><a href="/about">About and contacts</a></li><li><a href="/privacy">Privacy and Cookies</a></li><li><a href="/search">Search ezgif.com</a></li><li id="coffee" style="padding-top:8px"><a href="https://buymeacoffee.com/ezgif" rel="nofollow"><img src="/images/coffee.svg" style="width:75%;height:auto" alt="Buy Me A Coffee (donate)"></a></li></ul></div><div><ul><li><strong>Video tools</strong></li><li><a href="/gif-to-mp4" title="Convert animated GIFs to MP4 videos">GIF to MP4 converter</a></li><li><a href="/cut-video" title="Upload and cut a video file">Online video cutter</a></li><li><a href="/reverse-video" title="Reverse a video">Video reverser</a></li><li><a href="/crop-video" title="Crop/trim a video">Video crop tool</a></li><li><a href="/rotate-video" title="Rotate a video">Video rotator</a></li><li><a href="/video-to-mp4" title="Convert video file in any other format to MP4 online">Any video to MP4</a></li><li><a href="/mp4-to-mp3" title="MP4 to MP3 (video to audio) converter">MP4 to MP3 converter</a></li></ul></div><div><ul><li><strong>Popular file converters</strong></li><li><a href="/jpg-to-pdf" title="Convert JPG images to PDF document">JPG to PDF converter</a></li><li><a href="/webp-to-jpg" title="Convert WebP images to JPG">WebP to JPG converter</a></li><li><a href="/webp-to-png" title="Convert WebP images to PNG / APNG">WebP to PNG converter</a></li><li><a href="/heic-to-jpg" title="Convert HEIC images to JPG">HEIC to JPG converter</a></li><li><a href="/avif-to-jpg" title="Online AVIF to JPG converter">AVIF to JPG converter</a></li><li><a href="/png-to-jpg" title="Online PNG to JPG converter">PNG to JPG converter</a></li><li><a href="/svg-to-png" title="Online SVG to PNG converter">SVG to PNG converter</a></li></ul></div><div><ul><li><strong>Other image tools</strong></li><li><a href="/image-to-datauri" title="Convert image files to DataURI code">Image to Data URI</a></li><li><a href="/mng-maker" title="Animated MNG maker">MNG tools</a></li><li><a href="/qr-generator" title="Generate QR or barcode images">QR and barcode generators</a></li><li><a href="/crop-pdf" title="Crop PDF documents">Crop PDF</a></li><li><a href="/view-metadata" title="View image metadata (exif)">Metadata viewer</a></li><li><a href="/png-to-svg" title="Convert (vectorize) PNG images to SVG format">SVG tools</a></li><li><a href="/converters" title="All file format converters">All ezgif.com converters</a></li></ul></div></div></footer><script src="https://stpd.cloud/assets/libraries/inview.min.js"></script><script>inView.offset(-400);</script></body></html>
+<!-- Dynamic Typing Banner -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%E2%9A%A1+Deconstruct+%E2%9A%A1+Disrupt+%E2%9A%A1+Decode+%E2%9A%A1+Deliver;Security-obsessed+%7C+AI-possessed+%7C+Blockchain-bent)](https://git.io/typing-svg)
+
+</div>
+
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ARNAV+RAJ&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Quantum-curious+%E2%80%A2+Hackathon+worm+%E2%80%A2+System+breaker&descSize=18&descAlignY=51" width="100%"/>
+</p>
+
+<!-- Main Banner GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Coding Animation">
+</p>
+
+<!-- Profile Stats Bar -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yocybroarnv&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/yocybroarnv?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1a1a" alt="Followers">
+  <img src="https://img.shields.io/badge/Hackathons-50+-ff6b6b?style=for-the-badge&labelColor=1a1a1a&logo=codechef" alt="Hackathons">
+  <img src="https://img.shields.io/badge/Projects-15+-00ff00?style=for-the-badge&labelColor=1a1a1a&logo=github" alt="Projects">
+</p>
+
+---
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════╗
+║  > whoami                                                                 ║
+║  arnav_raj: penetration_mode=active | learning=continuous                ║
+║                                                                           ║
+║  > cat skills.txt                                                         ║
+║  [████████████████████] Cybersecurity    80%                             ║
+║  [███████████████░░░░░] AI/ML            75%                             ║
+║  [██████████████░░░░░░] Blockchain       70%                             ║
+║  [████████████░░░░░░░░] Quantum          60%                             ║
+║                                                                           ║
+║  > status                                                                 ║
+║  Building quantum-safe mail systems | Breaking RSA before it breaks us   ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🎯 Quick Access Matrix
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<h3>🔐 Cyber Arsenal</h3>
+<b>OSINT • Threat Intel</b><br>
+<b>Pentesting • Forensics</b><br>
+<b>7 Security Internships</b>
+</td>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<h3>🤖 AI Experiments</h3>
+<b>LLMs • Deep Learning</b><br>
+<b>Computer Vision • MLOps</b><br>
+<b>AWS AI/ML Scholar</b>
+</td>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<h3>⛓️ Blockchain Lab</h3>
+<b>Hyperledger • Smart Contracts</b><br>
+<b>DApps • Web3</b><br>
+<b>Supply Chain DLT</b>
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Project Arsenal
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Project Banner">
+</p>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 phiQure
+**Quantum Mail System**
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="200">
+
+**The Problem:**  
+Traditional email encryption vulnerable to emerging quantum computing threats
+
+**My Approach:**  
+Built next-gen secure mail platform combining quantum cryptography with AI-powered security monitoring
+
+**Tech Highlights:**
+- Quantum key distribution protocols
+- AI threat detection engine
+- Zero-knowledge architecture
+- Real-time security monitoring
+
+**Impact:**
+- Enhanced communication security
+- Quantum-resistant design
+- Automated threat response
+
+[🔗 View Details](#)
+
+</td>
+<td width="50%">
+
+### 🌿 AyuTrace
+**Supply Chain Security**
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200">
+
+**The Problem:**  
+Counterfeit products and lack of transparency in herbal supply chains
+
+**My Approach:**  
+Developed blockchain-based traceability system with immutable audit trails
+
+**Tech Highlights:**
+- Distributed ledger technology
+- Smart contract automation
+- IoT sensor integration
+- Multi-stakeholder verification
+
+**Impact:**
+- End-to-end transparency
+- Counterfeit prevention
+- Compliance automation
+
+[🔗 Explore System](#)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🕵️ InvisiCrypt - **Secure Communication Tool**
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="200">
+
+**The Challenge:** Secure data transmission in high-risk environments
+
+**My Solution:** Advanced steganography toolkit for covert communication with forensic-grade security
+
+**Technology:** Python | OpenCV | Advanced Cryptography | Digital Forensics Techniques
+
+**Applications:** Secure messaging | Digital evidence protection | Confidential communications
+
+[🔍 Learn More](#)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Tech Stack Mastery
+
+<div align="center">
+
+### ⚔️ Primary Weapons
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+<br>Rust
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+<br>Solidity
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+</tr>
+</table>
+
+### 🎨 Frontend Armory
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br>Figma
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
+<br>Photoshop
+</td>
+</tr>
+</table>
+
+### ⚙️ Backend Arsenal
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br>FastAPI
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br>Express
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+</tr>
+</table>
+
+### 🤖 AI/ML Toolkit
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br>TensorFlow
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br>PyTorch
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+<br>OpenCV
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Sklearn" />
+<br>Sklearn
+</td>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="48" height="48" alt="NumPy" />
+<br>NumPy
+</td>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="48" height="48" alt="Pandas" />
+<br>Pandas
+</td>
+</tr>
+</table>
+
+### 🔐 Security & Blockchain
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Kali Linux
+</td>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="48" height="48" alt="Wireshark" />
+<br>Wireshark
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yocybroarnv&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&custom_title=⚡+GitHub+Statistics" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=yocybroarnv&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yocybroarnv&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&custom_title=💻+Code+Distribution" alt="Top Languages"/>
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=yocybroarnv&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Contributor Stats"/>
+
+### 📈 Contribution Heatmap
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yocybroarnv&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&custom_title=🔥+Contribution+Activity)](https://github.com/yocybroarnv)
+
+</div>
+
+---
+
+## 🎮 Interactive Challenge Zone
+
+<div align="center">
+
+### 🎯 AI Puzzle Challenge
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                    🤖 NEURAL NETWORK MAZE 🤖                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║    Can you navigate through the AI training pipeline?                ║
+║                                                                      ║
+║    START → [Data] → [Preprocessing] → [Model] → [Training] → END    ║
+║              ↓           ↓              ↓           ↓                ║
+║          [Clean]    [Normalize]    [Optimize]  [Validate]           ║
+║              ↓           ↓              ↓           ↓                ║
+║          [Label]    [Transform]    [Compile]   [Deploy]             ║
+║                                                                      ║
+║    🎯 Challenge: Find the optimal path through ML development!      ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+### 🔐 Cybersecurity Challenge
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                  🛡️ PENETRATION TEST SIMULATOR 🛡️                   ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  Mission: Secure the network before the red team strikes!           ║
+║                                                                      ║
+║  [Firewall] ━━━━━━━━━━━━━━━━━┓                                     ║
+║       ↓                        ↓                                     ║
+║  [IDS/IPS] ━━━━━━━━━━━━━ [Web Server]                              ║
+║       ↓                        ↓                                     ║
+║  [SIEM] ━━━━━━━━━━━━━━━━ [Database]                                ║
+║       ↓                        ↓                                     ║
+║  [Incident Response] ━━━━ [Backup System]                           ║
+║                                                                      ║
+║  Defense Layers: 5/5 Active ✅ | Threats Blocked: 50+ 🛡️           ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+### 🎯 My Journey Decoded
+
+```
+ _____                                       _                 
+|_   _|                                     | |                
+  | |   _ __    ___   _ __    ___    __ _  | |                
+  | |  | '_ \  / __| | '_ \  / _ \  / _` | | |                
+ _| |_ | | | || (__  | |_) ||  __/ | (_| | |_|                
+|_____||_| |_| \___| | .__/  \___|  \__,_| (_)                
+                     | |                                       
+                     |_|                                       
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│  🎓 AWS AI/ML Scholar (2025) - Udacity                                 │
+│  🥇 Top 10 Global @ IBM Z Datathon (2024) - 1000+ participants        │
+│  🚀 Founder & CEO @ Bio-Yugam (2024-Present)                           │
+│  🏆 AIR 498 @ NITI Aayog ATL Tinkerpreneur (2021)                     │
+│  💻 7 Internships: IBM | APCSIP | World Cyber Forum | Edunet | More   │
+│  🎯 50+ Hackathons Participated                                        │
+│  📜 15+ Certifications: AWS | Cisco | IBM | ISRO | C-DAC              │
+│  🔍 OSINT Researcher @ Trace Labs (2024-Present)                       │
+│  👔 Team Leader @ Younity.in - Led 35 members (2024)                  │
+│                                                                         │
+│  🎓 Education: BCA @ Amity University (2023-2026)                      │
+│              Blockchain Diploma @ Alison (2024)                        │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+### 🔐 Security Hash Terminal
+
+```bash
+$ whoami
+arnav_raj@cybersec:~$ 
+
+$ cat /etc/motd
+"Building systems. Breaking systems. Securing systems."
+
+$ echo "Innovation" | sha256sum
+Output: One commit at a time, changing the digital landscape.
+
+$ sudo systemctl status innovation.service
+● innovation.service - Continuous Learning Engine
+   Loaded: loaded (/lib/systemd/system/innovation.service; enabled)
+   Active: active (running) since 2020
+   Status: "50+ hackathons | 7 internships | 2 startups | continuous learning"
+```
+
+</div>
+
+---
+
+## 🏆 Achievement Board
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<br><b>AWS AI/ML Scholar</b>
+<br>Udacity & AWS (2025)
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+<br><b>Top 10 Global</b>
+<br>IBM Z Datathon (2024)
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+<br><b>Founder & CEO</b>
+<br>Bio-Yugam (2024)
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+<br><b>AIR 498</b>
+<br>NITI Aayog (2021)
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎖️ Certification Arsenal
+
+<div align="center">
+
+![AWS AI/ML](https://img.shields.io/badge/AWS_AI/ML_Scholar-Udacity-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Quantum](https://img.shields.io/badge/Quantum_Computing-C--DAC_IIT-blue?style=for-the-badge&logo=ibmq&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking_IoT-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+![GenAI](https://img.shields.io/badge/Generative_AI-OneRoadMap-purple?style=for-the-badge&logo=openai&logoColor=white)
+![IBM](https://img.shields.io/badge/Cybersecurity-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![ISRO](https://img.shields.io/badge/Geo--data_Security-ISRO-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
+
+![Deloitte](https://img.shields.io/badge/Deloitte_CyberJob-Forage-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)
+![AWS SA](https://img.shields.io/badge/AWS_Solution_Architect-Forage-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Tata](https://img.shields.io/badge/Tata_Cyber_Analyst-Forage-0B3D91?style=for-the-badge&logo=tata&logoColor=white)
+
+![Postman](https://img.shields.io/badge/API_Fundamentals-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain_Tech-Alison-0077C8?style=for-the-badge&logo=blockchain&logoColor=white)
+![Hackathon](https://img.shields.io/badge/Hackathon_Participant-Google_Developer_Group-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+---
+
+## 🎓 Learning Journey
+
+<div align="center">
+
+```ascii
+┌────────────────────────────────────────────────────────────────────────┐
+│                     📚 EDUCATION TIMELINE 📚                           │
+├────────────────────────────────────────────────────────────────────────┤
+│                                                                        │
+│  🎓 Bachelor of Computer Application (BCA)                            │
+│     Amity University, Patna, Bihar                                    │
+│     2023 - 2026 (Expected)                                            │
+│     Focus: Cybersecurity, AI/ML, Blockchain                           │
+│                                                                        │
+│  📜 Blockchain Technology & Application (Diploma)                     │
+│     Alison | Distance Learning                                        │
+│     2024 (Completed)                                                  │
+│     Specialization: DLT, Smart Contracts, Hyperledger                │
+│                                                                        │
+│  🏫 Higher Secondary Education                                        │
+│     Radiant International School, Patna                               │
+│     2022 (Completed)                                                  │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 💼 Professional Journey
+
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════════════════════════════════════════╗
+║                      🚀 EXPERIENCE ROADMAP 🚀                            ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  2025  ┃ World Cyber Security Forum → Legal/Tech Research              ║
+║        ┃ Amroha Police (APCSIP) → Cybersecurity Training               ║
+║        ┃ Edunet Foundation (AICTE) → Cyber Analytics                   ║
+║        ┃                                                                ║
+║  2024  ┃ IBM Skillsbuilder → Penetration Testing                       ║
+║        ┃ Younity.in → Business Development Team Leader                 ║
+║        ┃ Metagrafix Studio → UI/UX Design                              ║
+║        ┃ Trace Labs → OSINT Research (Ongoing)                         ║
+║        ┃ Bio-Yugam → Founder & CEO (Ongoing)                           ║
+║        ┃ Technodox → Leader (Ongoing)                                  ║
+║        ┃                                                                ║
+║  2021  ┃ NITI Aayog ATL → Tinkerpreneur Bootcamp (AIR 498)            ║
+║        ┃ Dexpression → Founder (Atal Tinkering Lab)                    ║
+║        ┃                                                                ║
+║  📊 Total: 7 Internships | 3 Leadership Roles | 2 Startups Founded    ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+<br><br>
+<a href="https://www.linkedin.com/in/arnav-raj-professional">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+</td>
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<br><br>
+<a href="https://github.com/yocybroarnv">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+</td>
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.gif" width="100">
+<br><br>
+<a href="mailto:suvam.arnavraj@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=
