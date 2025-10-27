@@ -1,7 +1,7 @@
 <!-- Dynamic Typing Banner -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%E2%9A%A1+Deconstruct+%E2%9A%A1+Disrupt+%E2%9A%A1+Decode+%E2%9A%A1+Deliver;Security-obsessed+%7C+AI-possessed+%7C+Blockchain-bent)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%E2%9A%A1+Deconstruct+%E2%9A%A1+Disrupt+%E2%9A%A1+Decode+%E2%9A%A1+Deliver;Security-obsessed+%7C+AI-possessed+%7C+Quantum-bent)](https://git.io/typing-svg)
 
 </div>
 
