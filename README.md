@@ -5,9 +5,9 @@
 
 </div>
 
-<!-- Animated Header -->
+<!-- Animated Header with Hacker Aesthetic -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ARNAV+RAJ&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Quantum-curious+%E2%80%A2+Hackathon+worm+%E2%80%A2+System+breaker&descSize=18&descAlignY=51" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=yocybroarnv&fontSize=50&fontColor=00ff00&animation=twinkling&fontAlignY=28&desc={Arnav+Raj}&descSize=20&descAlignY=51&descColor=00d9ff" width="100%"/>
 </p>
 
 <!-- Main Banner GIF -->
@@ -44,36 +44,6 @@
 ```
 
 </div>
-
----
-
-## 🎯 Quick Access Matrix
-
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<h3>🔐 Cyber Arsenal</h3>
-<b>OSINT • Threat Intel</b><br>
-<b>Pentesting • Forensics</b><br>
-<b>7 Security Internships</b>
-</td>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<h3>🤖 AI Experiments</h3>
-<b>LLMs • Deep Learning</b><br>
-<b>Computer Vision • MLOps</b><br>
-<b>AWS AI/ML Scholar</b>
-</td>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<h3>⛓️ Blockchain Lab</h3>
-<b>Hyperledger • Smart Contracts</b><br>
-<b>DApps • Web3</b><br>
-<b>Supply Chain DLT</b>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -338,7 +308,11 @@ Developed blockchain-based traceability system with immutable audit trails
 
 ### 📈 Contribution Heatmap
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yocybroarnv&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&custom_title=🔥+Contribution+Activity)](https://github.com/yocybroarnv)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yocybroarnv&custom_title=Contribution+Activity&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area_color=00d9ff&area=true&hide_border=true&theme=react-dark)](https://github.com/yocybroarnv)
+
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yocybroarnv&theme=dark&hide_border=true&border_radius=5&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&background=0d1117&stroke=00d9ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e)](https://github.com/yocybroarnv)
 
 </div>
 
@@ -348,47 +322,138 @@ Developed blockchain-based traceability system with immutable audit trails
 
 <div align="center">
 
-### 🎯 AI Puzzle Challenge
+### 🎯 AI Training Pipeline Puzzle
+
+<details>
+<summary><b>🤖 Click to Start Neural Network Challenge</b></summary>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                    🤖 NEURAL NETWORK MAZE 🤖                         ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║    Can you navigate through the AI training pipeline?                ║
+║    Navigate through the AI training pipeline:                       ║
 ║                                                                      ║
-║    START → [Data] → [Preprocessing] → [Model] → [Training] → END    ║
-║              ↓           ↓              ↓           ↓                ║
-║          [Clean]    [Normalize]    [Optimize]  [Validate]           ║
-║              ↓           ↓              ↓           ↓                ║
-║          [Label]    [Transform]    [Compile]   [Deploy]             ║
+║    START → [Data Collection] → [Data Cleaning] → [Feature Eng]     ║
+║              ↓                    ↓                   ↓              ║
+║          [Labeling]          [Normalization]     [Selection]        ║
+║              ↓                    ↓                   ↓              ║
+║    [Train/Test Split] → [Model Selection] → [Hyperparameter Tune]  ║
+║              ↓                    ↓                   ↓              ║
+║          [Training]          [Validation]        [Testing]          ║
+║              ↓                    ↓                   ↓              ║
+║          [Evaluation] → [Model Optimization] → [Deployment] → END   ║
 ║                                                                      ║
-║    🎯 Challenge: Find the optimal path through ML development!      ║
+║    🎯 Challenge: What's the optimal learning rate? 🤔               ║
+║    💡 Hint: Too high = overshoot, Too low = slow convergence        ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-### 🔐 Cybersecurity Challenge
+**Your Mission:** Build an ML model that achieves >95% accuracy!
+
+</details>
+
+### 🔐 Penetration Testing Simulator
+
+<details>
+<summary><b>🛡️ Click to Start Security Challenge</b></summary>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                  🛡️ PENETRATION TEST SIMULATOR 🛡️                   ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  Mission: Secure the network before the red team strikes!           ║
+║  Mission: Secure the network before attackers exploit it!           ║
 ║                                                                      ║
-║  [Firewall] ━━━━━━━━━━━━━━━━━┓                                     ║
-║       ↓                        ↓                                     ║
-║  [IDS/IPS] ━━━━━━━━━━━━━ [Web Server]                              ║
-║       ↓                        ↓                                     ║
-║  [SIEM] ━━━━━━━━━━━━━━━━ [Database]                                ║
-║       ↓                        ↓                                     ║
-║  [Incident Response] ━━━━ [Backup System]                           ║
+║  Layer 1: [Firewall] ━━━━━━━━━━━━━━━━━┓                            ║
+║              ↓                          ↓                            ║
+║  Layer 2: [IDS/IPS] ━━━━━━━━━━━━━ [Web Application]                ║
+║              ↓                          ↓                            ║
+║  Layer 3: [SIEM] ━━━━━━━━━━━━━━━━ [Database Server]                ║
+║              ↓                          ↓                            ║
+║  Layer 4: [WAF] ━━━━━━━━━━━━━━━━━ [API Gateway]                    ║
+║              ↓                          ↓                            ║
+║  Layer 5: [Incident Response] ━━━ [Backup System]                   ║
 ║                                                                      ║
-║  Defense Layers: 5/5 Active ✅ | Threats Blocked: 50+ 🛡️           ║
+║  🎯 Vulnerabilities Found: 0/10                                     ║
+║  🛡️ Defense Score: 100/100                                          ║
+║  ⏱️ Time Remaining: 00:00                                           ║
+║                                                                      ║
+║  💡 Next Step: Run vulnerability scan with Nmap!                    ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
+
+**Your Mission:** Find all 10 vulnerabilities before the red team does!
+
+</details>
+
+### ⛓️ Blockchain Consensus Challenge
+
+<details>
+<summary><b>🔗 Click to Start Blockchain Challenge</b></summary>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                    ⛓️ BLOCKCHAIN CONSENSUS ⛓️                        ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  Build a distributed consensus system:                              ║
+║                                                                      ║
+║  Node 1 [Validator] ━━━━━━━━━━━━━━━━━━━┓                           ║
+║              ↓                            ↓                          ║
+║  Node 2 [Miner] ━━━━━━━━━━━━━━━━━ [Block Proposal]                 ║
+║              ↓                            ↓                          ║
+║  Node 3 [Validator] ━━━━━━━━━━━━━ [Consensus Check]                ║
+║              ↓                            ↓                          ║
+║  Node 4 [Validator] ━━━━━━━━━━━━━ [Block Validation]               ║
+║              ↓                            ↓                          ║
+║  [Byzantine Fault Tolerance] → [Finality] → [Chain Update]         ║
+║                                                                      ║
+║  🎯 Consensus Achieved: 75% (3/4 nodes)                             ║
+║  ⛓️ Blocks Mined: 1,234                                             ║
+║  🔐 Security: Byzantine Fault Tolerant                              ║
+║                                                                      ║
+║  💡 Challenge: Maintain consensus with 1 malicious node!            ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+**Your Mission:** Achieve 67%+ consensus in a distributed network!
+
+</details>
+
+### 🔐 Cryptography Decoder
+
+<details>
+<summary><b>🔓 Click to Decode the Message</b></summary>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                      🔐 CIPHER CHALLENGE 🔐                          ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  Encrypted Message:                                                 ║
+║  WW9DeWJyb2FybnYgaXMgYnVpbGRpbmcgdGhlIGZ1dHVyZQ==                  ║
+║                                                                      ║
+║  Encryption: Base64 + ROT13 + AES-256                               ║
+║                                                                      ║
+║  🎯 Clues:                                                           ║
+║  1. First layer: Base64 decode                                      ║
+║  2. Second layer: Caesar cipher (shift=13)                          ║
+║  3. Third layer: Symmetric key encryption                           ║
+║                                                                      ║
+║  💡 Hint: The key is hidden in my GitHub username!                  ║
+║                                                                      ║
+║  🔓 Decrypted: [???]                                                 ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+**Your Mission:** Decode the encrypted message using cryptographic skills!
+
+</details>
 
 ### 🎯 My Journey Decoded
 
@@ -494,7 +559,7 @@ $ sudo systemctl status innovation.service
 
 ![Postman](https://img.shields.io/badge/API_Fundamentals-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain_Tech-Alison-0077C8?style=for-the-badge&logo=blockchain&logoColor=white)
-![Hackathon](https://img.shields.io/badge/Hackathon_Participant-Google_Developer_Group-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Datathon](https://img.shields.io/badge/IBM'Z_Datathon-Global_Top_10-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -569,21 +634,169 @@ $ sudo systemctl status innovation.service
 <table>
 <tr>
 <td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+<img src="https://skillicons.dev/icons?i=linkedin" width="100">
 <br><br>
 <a href="https://www.linkedin.com/in/arnav-raj-professional">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 </td>
 <td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="100">
 <br><br>
 <a href="https://github.com/yocybroarnv">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 </td>
 <td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.gif" width="100">
+<img src="https://skillicons.dev/icons?i=gmail" width="100">
 <br><br>
 <a href="mailto:suvam.arnavraj@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+</td>
+</tr>
+</table>
+
+### 🤝 Open For
+
+**🔥 Collaboration:** Open Source Cybersecurity Projects • AI/ML Research • Blockchain Development  
+**💼 Opportunities:** Cybersecurity Engineering Roles • AI/ML Engineering Positions • Blockchain Developer Roles  
+**🎓 Mentorship:** Guiding Students in Cybersecurity • Hackathon Team Formation • Tech Career Advice  
+**🎤 Speaking:** Technical Talks • Security Workshops • Tech Community Events
+
+</div>
+
+---
+
+## ⚡ Quick Stats
+
+<div align="center">
+
+| Category | Count | Status |
+|----------|-------|--------|
+| 💻 GitHub Repositories | 15+ | 📈 Growing |
+| 🎯 Hackathons Participated | 50+ | 🏆 Active |
+| 🔀 Open Source Contributions | Active | 🤝 Contributing |
+| 📜 Certifications Earned | 15+ | 🎓 Certified |
+| 🏢 Internships Completed | 7 | 💼 Experienced |
+| 🚀 Startups Founded | 2 | 💡 Entrepreneur |
+| 👥 Team Members Led | 35+ | 🎯 Leader |
+| 🏆 National Ranking (ATL) | AIR 498 | 🥇 Achieved |
+
+</div>
+
+---
+
+## 💭 Current Mission
+
+<div align="center">
+
+```javascript
+const currentStatus = {
+    location: "Bihar, India 🇮🇳",
+    role: "Hackathon Enthusiast | Security Researcher | System Builder",
+    
+    currentlyBuilding: [
+        "Quantum-resistant communication protocols",
+        "AI-powered threat detection systems",
+        "Blockchain security solutions"
+    ],
+    
+    learning: [
+        "Advanced Quantum Computing",
+        "Zero-Knowledge Proofs", 
+        "Web3 Security Architecture",
+        "Rust for Systems Programming"
+    ],
+    
+    seeking: [
+        "Cybersecurity Engineering Roles",
+        "AI/ML Engineering Positions",
+        "Blockchain Development Opportunities",
+        "Open Source Collaborations"
+    ],
+    
+    techStack: {
+        security: ["Kali Linux", "Wireshark", "Metasploit", "OSINT Tools"],
+        languages: ["Python", "C++", "Rust", "JavaScript", "Solidity"],
+        ai_ml: ["TensorFlow", "PyTorch", "OpenCV", "Scikit-learn"],
+        blockchain: ["Hyperledger Fabric", "Ethereum", "Smart Contracts"],
+        cloud: ["AWS", "Docker", "CI/CD"],
+        design: ["Figma", "Photoshop", "UI/UX"]
+    },
+    
+    achievements: {
+        internships: 7,
+        hackathons: "50+",
+        certifications: "15+",
+        startups: 2,
+        nationalRank: 498
+    },
+    
+    dailyRoutine: ["☕ Coffee", "💻 Code", "🐛 Debug", "🔁 Repeat"],
+    motto: "Break it. Build it. Better it.",
+    availability: "Open for opportunities"
+};
+
+// System Status
+console.log("🔥 Status: Online | Mode: Innovation Overdrive 🚀");
+console.log("⚡ Next Mission: Building the unhackable ⚡");
+```
+
+</div>
+
+---
+
+## 🎯 What I Bring to the Table
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+<h3>🔐 Security Mindset</h3>
+<p>7 cybersecurity internships<br>Penetration testing experience<br>OSINT & threat intelligence<br>Real-world incident response</p>
+</td>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+<h3>🚀 Innovation Drive</h3>
+<p>50+ hackathons participated<br>AIR 498 national ranking<br>Top 10 global @ IBM Datathon<br>Founded 2 tech startups</p>
+</td>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+<h3>🤝 Team Leadership</h3>
+<p>Led 35-member teams<br>Cross-functional collaboration<br>Mentoring junior developers<br>Community building</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+### ⚡ "Building tomorrow's security infrastructure, one commit at a time" ⚡
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║  "In a world of 1s and 0s, I engineer the exceptions."              ║
+║                                                                       ║
+║  Curiosity Builds • Resilience Refines • Innovation Survives         ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+**© 2025 Arnav Raj** | *Hackathon Enthusiast • Security Researcher • Innovation Catalyst*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
+
+</div>
+
+<!-- Easter Egg: You found the secret! Connect with me and mention "MATRIX" for a surprise 🎁 -->
