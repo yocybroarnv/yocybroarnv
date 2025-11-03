@@ -545,13 +545,13 @@ $ sudo systemctl status innovation.service
 
 <div align="center">
 
-![AWS AI/ML](https://img.shields.io/badge/AWS_AI/ML_Scholar-Udacity-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Quantum](https://img.shields.io/badge/Quantum_Computing-C--DAC_IIT-blue?style=for-the-badge&logo=ibmq&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking_IoT-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Gen AI](https://img.shields.io/badge/AWS_Gen_AI_Scholar-Udacity-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Quantum Comp](https://img.shields.io/badge/Quantum_Computing-C--DAC_IIT-blue?style=for-the-badge&logo=ibmq&logoColor=white)
+![Networking & IOT](https://img.shields.io/badge/Networking_&_IoT-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-![GenAI](https://img.shields.io/badge/Generative_AI-OneRoadMap-purple?style=for-the-badge&logo=openai&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/AI_Engineer-OneRoadMap-purple?style=for-the-badge&logo=openai&logoColor=white)
 ![IBM](https://img.shields.io/badge/Cybersecurity-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-![ISRO](https://img.shields.io/badge/Geo--data_Security-ISRO-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
+![ISRO](https://img.shields.io/badge/Geo--data_&_Cybersecurity-ISRO-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
 
 ![Deloitte](https://img.shields.io/badge/Deloitte_CyberJob-Forage-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)
 ![AWS SA](https://img.shields.io/badge/AWS_Solution_Architect-Forage-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
