@@ -296,25 +296,20 @@ Developed blockchain-based traceability system with immutable audit trails
 
 ---
 
-## 📊 GitHub Analytics Dashboard
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yocybroarnv&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&custom_title=⚡+GitHub+Statistics" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=yocybroarnv&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+<!-- Contributor Stats -->
+<img width="49%" 
+     src="https://github-contributor-stats.vercel.app/api?username=yocybroarnv&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" 
+     alt="Contributor Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yocybroarnv&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&custom_title=💻+Code+Distribution" alt="Top Languages"/>
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=yocybroarnv&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Contributor Stats"/>
+</div>
+
+---
 
 ### 📈 Contribution Heatmap
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yocybroarnv&custom_title=Contribution+Activity&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area_color=00d9ff&area=true&hide_border=true&theme=react-dark)](https://github.com/yocybroarnv)
-
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yocybroarnv&theme=dark&hide_border=true&border_radius=5&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&background=0d1117&stroke=00d9ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e)](https://github.com/yocybroarnv)
-
-</div>
 
 ---
 
