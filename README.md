@@ -47,9 +47,7 @@
 
 ## About Me
 
-I am **Arnav Raj**, a BCA graduate from **Amity University Patna**, building full-stack and AI/security systems from Bihar, India.
-
-📬 **suvam.arnavraj@gmail.com** — open to Full-Stack, AI Security, and Cybersecurity roles.
+I'm **Arnav Raj**, a final-year BCA graduate from **Amity University Patna**, building full-stack systems with a security-first mindset. Over the past two years I've shipped real products — from **CodeSahayak**, a multilingual AI coding platform for Indian students, to **AIR-E**, a privacy-first fraud detection engine — while interning across cybersecurity teams, including a state cyber crime unit. I don't build to fill a portfolio; I build because production systems are where ideas actually get tested.
 
 My work sits at the intersection of:
 
@@ -438,7 +436,7 @@ $ systemctl status builder.service
 <img src="https://skillicons.dev/icons?i=gmail" width="100">
 <br><br>
 <a href="mailto:suvam.arnavraj@gmail.com">
-<img src="https://img.shields.io/badge/Email-suvam.arnavraj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-Send_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 </td>
 </tr>
@@ -559,6 +557,6 @@ console.log("Status: Online | Mode: Learn fast, build real, improve faster.");
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-**© 2026 Arnav Raj** | *Full-Stack Builder • AI Security Learner • Cybersecurity Mindset*
+**© 2026 Arnav Raj (Cybroarnv)** | *Full-Stack Builder • AI Security Learner • Cybersecurity Mindset*
 
 </div>
