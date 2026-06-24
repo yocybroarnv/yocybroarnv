@@ -1,25 +1,21 @@
 <!-- Dynamic Typing Banner -->
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=28\&duration=3000\&pause=1000\&color=00F7F7\&center=true\&vCenter=true\&multiline=true\&repeat=true\&width=900\&height=100\&lines=%E2%9A%A1+Deconstruct+%E2%9A%A1+Disrupt+%E2%9A%A1+Decode+%E2%9A%A1+Deliver;Security-obsessed+%7C+AI-possessed+%7C+Quantum-bent)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%E2%9A%A1+Deconstruct+%E2%9A%A1+Disrupt+%E2%9A%A1+Decode+%E2%9A%A1+Deliver;Security-obsessed+%7C+AI-possessed+%7C+Quantum-bent)](https://git.io/typing-svg)
 
 </div>
 
 <!-- Animated Header with Hacker Aesthetic -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=yocybroarnv&fontSize=50&fontColor=00ff00&animation=twinkling&fontAlignY=28&desc={Arnav+Raj}&descSize=20&descAlignY=51&descColor=00d9ff" width="100%"/>
 </p>
 
 <!-- Main Banner GIF -->
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Coding Animation">
 </p>
 
 <!-- Profile Stats Bar -->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yocybroarnv&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/yocybroarnv?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1a1a" alt="Followers">
@@ -53,6 +49,8 @@
 
 I am **Arnav Raj**, a BCA graduate from **Amity University Patna**, building full-stack and AI/security systems from Bihar, India.
 
+📬 **suvam.arnavraj@gmail.com** — open to Full-Stack, AI Security, and Cybersecurity roles.
+
 My work sits at the intersection of:
 
 * **Full-Stack Engineering:** React, FastAPI, Node.js, PostgreSQL, Redis, REST APIs
@@ -75,7 +73,6 @@ I do not build projects just to decorate a profile. I build because I keep findi
 <td width="50%">
 
 ### CodeSahayak
-
 **AI Multilingual Coding Education Platform**
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="200">
@@ -87,7 +84,6 @@ Many Indian students want to learn programming but struggle with English-first c
 A full-stack AI coding education platform with multilingual learning support and in-browser Python execution.
 
 **Tech Stack:**
-
 * React 19 / Vite
 * FastAPI + Node.js
 * PostgreSQL + Prisma ORM
@@ -97,7 +93,6 @@ A full-stack AI coding education platform with multilingual learning support and
 * Monaco Editor
 
 **What it proves:**
-
 * Full-stack architecture thinking
 * Authentication and session design
 * AI-assisted learning workflows
@@ -107,7 +102,6 @@ A full-stack AI coding education platform with multilingual learning support and
 <td width="50%">
 
 ### AIR-E
-
 **Aadhaar Integrity & Risk Engine**
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200">
@@ -119,7 +113,6 @@ Large-scale fraud risk systems need to be explainable, privacy-aware, and useful
 A privacy-first fraud risk engine with district-level anomaly detection and explainable AI dashboards.
 
 **Tech Stack:**
-
 * Python
 * Streamlit
 * Isolation Forest
@@ -129,7 +122,6 @@ A privacy-first fraud risk engine with district-level anomaly detection and expl
 * Data visualization
 
 **What it proves:**
-
 * AI + cybersecurity thinking
 * Privacy-first system design
 * Explainable ML
@@ -165,128 +157,62 @@ That is why I care about **full-stack development**, **AI**, **security**, and *
 <div align="center">
 
 ### Core Languages & Backend
-
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-<br>FastAPI
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br>Express
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br>FastAPI</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br>Express</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker</td>
 </tr>
 </table>
 
 ### Frontend & Product
-
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-<br>Vite
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br>HTML5
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br>CSS3
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br>Tailwind
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br>Figma
-</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br>Vite</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br>CSS3</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br>Tailwind</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma</td>
 </tr>
 </table>
 
 ### Data, APIs & Cloud
-
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-<br>PostgreSQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-<br>Redis
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br>Postman
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-<br>AWS
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br>Redis</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>AWS</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
 </tr>
 </table>
 
 ### AI/ML & Security
-
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-<br>TensorFlow
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-<br>PyTorch
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
-<br>Scikit-learn
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-<br>OpenCV
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br>TensorFlow</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br>PyTorch</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" /><br>Scikit-learn</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /><br>OpenCV</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub</td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## Top Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yocybroarnv&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages" />
 
 </div>
 
@@ -295,32 +221,14 @@ That is why I care about **full-stack development**, **AI**, **security**, and *
 ## Achievements
 
 <div align="center">
-
 <table>
 <tr>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-<br><b>AWS AI for Bharat</b>
-<br>Hackathon Semifinalist
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
-<br><b>Global Top 10</b>
-<br>IBM Z Datathon 2024
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-<br><b>AWS Gen AI Scholar</b>
-<br>Udacity Recognition
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
-<br><b>AIR 498</b>
-<br>ATL Tinkerpreneur
-</td>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"><br><b>AWS AI for Bharat</b><br>Hackathon Semifinalist</td>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100"><br><b>Global Top 10</b><br>IBM Z Datathon 2024</td>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"><br><b>AWS Gen AI Scholar</b><br>Udacity Recognition</td>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100"><br><b>AIR 498</b><br>ATL Tinkerpreneur</td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -382,34 +290,22 @@ That is why I care about **full-stack development**, **AI**, **security**, and *
 
 <div align="center">
 
-![AI Security](https://img.shields.io/badge/AI_Security_&_Governance-Securiti-00d9ff?style=for-the-badge\&logo=security\&logoColor=white)
-![Anthropic](https://img.shields.io/badge/AI_Fluency-Anthropic-8A2BE2?style=for-the-badge\&logo=anthropic\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_AI_Practitioner-Udacity-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![AI Engineer](https://img.shields.io/badge/AI_Engineer-OneRoadMap-purple?style=for-the-badge\&logo=openai\&logoColor=white)
-![Quantum](https://img.shields.io/badge/Quantum_Computing-C--DAC_IIT-blue?style=for-the-badge\&logo=ibm\&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-SecOps_Group-red?style=for-the-badge\&logo=hackthebox\&logoColor=white)
-![Cisco](https://img.shields.io/badge/Networking_&_IoT-Cisco-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
-![IBM](https://img.shields.io/badge/Cybersecurity_Fundamentals-IBM-054ADA?style=for-the-badge\&logo=ibm\&logoColor=white)
-![Databricks](https://img.shields.io/badge/Generative_AI-Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
-![Postman](https://img.shields.io/badge/API_Fundamentals-Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner_Challenge-Udacity_'26-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AI Security](https://img.shields.io/badge/AI_Security_&_Governance-Securiti_'26-00d9ff?style=for-the-badge&logo=security&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain_Tech_&_Uses-CDAC_Hyderabad_'26-007EC6?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/AI_Engineer-OneRoadMap_'25-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Quantum](https://img.shields.io/badge/Quantum_Computing-C--DAC/IIT_Roorkee_'25-1f6feb?style=for-the-badge&logo=ibm&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security_Practitioner-SecOps_Group_'25-red?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Cyber Educator](https://img.shields.io/badge/Cybersecurity_Educator_Professional-Red_Team_Leaders_'25-8b0000?style=for-the-badge&logo=hackaday&logoColor=white)
+![Cisco Networking](https://img.shields.io/badge/Networking_&_Initial_Config-Cisco_NetAcad_'25-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco IoT](https://img.shields.io/badge/Intro_to_IoT-Cisco_NetAcad_'25-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![ISRO](https://img.shields.io/badge/Geo--data_Sharing_&_Cybersecurity-ISRO_'25-bf360c?style=for-the-badge&logo=nasa&logoColor=white)
+![GenAI AWS](https://img.shields.io/badge/Introducing_GenAI_with_AWS-Udacity_'25-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Generative_AI_Fundamentals-Databricks_'24-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![IBM](https://img.shields.io/badge/Cybersecurity_Fundamentals-IBM_SkillsBuilder_'24-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![Postman](https://img.shields.io/badge/API_Fundamentals-Postman_Student_Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img width="49%" 
-  src="https://github-contributor-stats.vercel.app/api?username=yocybroarnv&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" 
-  alt="Contributor Stats"/>
-
-</div>
-
-### Contribution Heatmap
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yocybroarnv\&custom_title=Contribution+Activity\&bg_color=0d1117\&color=00d9ff\&line=00d9ff\&point=ff6b6b\&area_color=00d9ff\&area=true\&hide_border=true\&theme=react-dark)](https://github.com/yocybroarnv)
 
 ---
 
@@ -542,7 +438,7 @@ $ systemctl status builder.service
 <img src="https://skillicons.dev/icons?i=gmail" width="100">
 <br><br>
 <a href="mailto:suvam.arnavraj@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-suvam.arnavraj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 </td>
 </tr>
@@ -564,7 +460,7 @@ $ systemctl status builder.service
 <div align="center">
 
 | Category             | Status                                                |
-| -------------------- | ----------------------------------------------------- |
+| --------------------- | ----------------------------------------------------- |
 | Main Focus           | Full-Stack + AI Security                              |
 | Strongest Projects   | CodeSahayak, AIR-E                                    |
 | Hackathon Highlights | IBM Z Datathon Top 10, AWS AI for Bharat Semifinalist |
@@ -622,7 +518,6 @@ console.log("Status: Online | Mode: Learn fast, build real, improve faster.");
 ## What I Bring to the Table
 
 <div align="center">
-
 <table>
 <tr>
 <td width="33%" align="center">
@@ -642,7 +537,6 @@ console.log("Status: Online | Mode: Learn fast, build real, improve faster.");
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -667,8 +561,4 @@ console.log("Status: Online | Mode: Learn fast, build real, improve faster.");
 
 **© 2026 Arnav Raj** | *Full-Stack Builder • AI Security Learner • Cybersecurity Mindset*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
-
 </div>
-
-<!-- Easter Egg: You found the secret. Connect with me and mention "MATRIX". -->
